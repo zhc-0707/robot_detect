@@ -1,0 +1,5 @@
+/home/nvidia/zhc/project/robot_detect/tensorrtx/yolov5/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/zhc/project/robot_detect/tensorrtx/yolov5/build/CMakeFiles/edit_cache.dir
+/home/nvidia/zhc/project/robot_detect/tensorrtx/yolov5/build/CMakeFiles/yolov5_trt.dir
+/home/nvidia/zhc/project/robot_detect/tensorrtx/yolov5/build/CMakeFiles/yolov5.dir
+/home/nvidia/zhc/project/robot_detect/tensorrtx/yolov5/build/CMakeFiles/myplugins.dir
